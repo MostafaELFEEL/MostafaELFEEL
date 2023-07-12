@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mostafa Ashraf ELFEEL</h1>   
-<h3 align="center">Mechatronics and Automation Engineer</h3>
+<h3 align="center">Mechatronics Engineer</h3>
 
 <h3 align="center">
 <img alt="thumbnail" src="https://user-images.githubusercontent.com/81301684/182623628-15a14c4e-7d9e-4c38-b7ab-2baf3409fcf0.gif" width="300"/>
@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-I am a Senior 2 student studying in the interdisciplinary program <br>at the prestigious Faculty of Engineering at Ain Shams University. <br>My major is Mechatronics and Automation Engineering, <br>and I am proud to say that I am one of the top 10 students <br>in my major colleges.<br>With a current excellent grade and a GPA of 3.36,<br>I am a hardworking individual who strives for excellence <br>in all aspects of my life.<br><br>In addition to my academic pursuits, I am also a passionate <br>soccer player, with my position being goalkeeper. I also love going <br>to the gym to stay in shape and maintain a healthy lifestyle. <br>When I'm not on the field or studying, <br>I enjoy relaxing with some anime and listening to music. <br>I am currently on the lookout for a scholarship opportunity <br>for my Masters degree, and I am excited to see where my <br>education and interests will take me in the future. <br>Thank you for stopping by my profile, <br>and I hope to collaborate with you on future projects!
+I am a fresh graduate who studied in the interdisciplinary program <br>at the prestigious Faculty of Engineering at Ain Shams University. <br>My major is Mechatronics Engineering, <br>and I am proud to say that I was one of the top 10 students <br>in my major colleges.<br>With a current excellent grade and a GPA of 3.38,<br>I am a hardworking individual who strives for excellence <br>in all aspects of my life.<br><br>In addition to my academic pursuits, I am also a passionate <br>soccer player, with my position being goalkeeper. I also love going <br>to the gym to stay in shape and maintain a healthy lifestyle. <br>When I'm not on the field or studying, <br>I enjoy relaxing with some anime and listening to music. <br>I am currently on the lookout for a scholarship opportunity <br>for my Masters degree, and I am excited to see where my <br>education and interests will take me in the future. <br>Thank you for stopping by my profile, <br>and I hope to collaborate with you on future projects!
 
 
 ## 🌐 Socials:
