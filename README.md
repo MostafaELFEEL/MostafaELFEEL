@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mostafa Ashraf ELFEEL</h1>   
-<h3 align="center">Mechatronics Engineer</h3>
+<h3 align="center">Mechatronics and Robotics Engineer</h3>
 
 <h3 align="center">
 <img alt="thumbnail" src="https://user-images.githubusercontent.com/81301684/182623628-15a14c4e-7d9e-4c38-b7ab-2baf3409fcf0.gif" width="300"/>
@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-I am a graduate who studied in the interdisciplinary program at Faculty of Engineering at Ain Shams University. My major is Mechatronics Engineering, and I am proud to say that I was one of the top 10 students in my major colleges. With a current excellent grade and a GPA of 3.38, I am a hardworking individual who strives for excellence in all aspects of my life. In addition to my academic pursuits, I am also a passionate soccer player, with my position being goalkeeper. I also love going to the gym to stay in shape and maintain a healthy lifestyle. When I'm not on the field or studying, I enjoy relaxing with some anime and listening to music. I am currently on the lookout for a scholarship opportunity for my Masters degree, and I am excited to see where my education and interests will take me in the future. Thank you for stopping by my profile, and I hope to collaborate with you on future projects!
+I am a graduate of Ain Shams University's Faculty of Engineering. I study Mechatronics and Robotics Engineering. With a current GPA of 3.38, I am a hardworking individual who strives for excellence in all aspects of my life. I love going to the gym to stay in shape and maintain a healthy lifestyle. Currently, I am looking for a scholarship opportunity for a Master's degree in Autonomous Robotics, and I am excited to see where my education and interests will take me in the future.
 
 
 ## 🌐 Socials:
