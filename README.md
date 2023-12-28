@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-I am a graduate of Ain Shams University's Faculty of Engineering. I study Mechatronics and Robotics Engineering. With a current GPA of 3.38, I am a hardworking individual who strives for excellence in all aspects of my life. I love going to the gym to stay in shape and maintain a healthy lifestyle. Currently, I am looking for a scholarship opportunity for a Master's degree in Autonomous Robotics, and I am excited to see where my education and interests will take me in the future.
+I am a graduate of Faculty of Engineering Ain Shams University. I study Mechatronics and Robotics Engineering. With a current GPA of 3.38, I am a hardworking individual who strives for excellence in all aspects of my life. I love going to the gym to stay in shape and maintain a healthy lifestyle. Currently, I am looking for a scholarship opportunity for a Master's degree in Autonomous Robotics, and I am excited to see where my education and interests will take me in the future.
 
 
 # 🌐 Socials:
