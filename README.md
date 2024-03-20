@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-B.Sc. in Mechatronics, Automation, and Robotics Engineering from Ain Shams University's Faculty of Engineering with a GPA of 3.38/4.0. Passionate about Autonomous Robotics and Autonomous Driving Software Engineering.
+A highly motivated Mechatronics, Robotics, and Automation systems engineer with a deep passion for robotics and autonomous systems. Committed to pursuing a career in these innovative fields, dedicated to continual learning, conducting impactful research, and actively contributing to the development of groundbreaking technologies. I take pride in always pushing myself to my limits and I have often been described as dedicated, and hardworking.
 
 
 # 🌐 Socials:
