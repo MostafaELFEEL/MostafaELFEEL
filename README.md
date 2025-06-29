@@ -25,6 +25,11 @@ A highly motivated Mechatronics, Robotics, embedded, and Automation systems engi
 </h3>
 
 
+Hi!
+
+![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=feel&show_icons=true&theme=transparent)
+
+
 <!-- ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>-->
 
