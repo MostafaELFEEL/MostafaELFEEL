@@ -8,7 +8,9 @@
 
 # 💫 About Me:
 
-A highly motivated Mechatronics, Robotics, embedded, and Automation systems engineer with a deep passion for robotics and autonomous systems. Committed to pursuing a career in these innovative fields, dedicated to continual learning, conducting impactful research, and actively contributing to the development of groundbreaking technologies. I take pride in always pushing myself to my limits and I have often been described as dedicated, and hardworking.
+I've always been greedy for knowledge, driven by an intense need to understand how everything works. That relentless curiosity finally found its true north in robotics engineering.
+
+This isn't just a career choice for me; it's the field that finally matches my drive. I'm the person who has to push things to their limits—especially my own. I'm not satisfied with just learning about autonomous systems; I'm committed to being in the lab, conducting research, and actively helping build the groundbreaking technologies I've always been so curious about. People call me dedicated, but it's easy to be hardworking when you've found the one thing you're this passionate about.
 
 
 # 🌐 Socials:
