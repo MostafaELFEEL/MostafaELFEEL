@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Mostafa Ashraf ELFEEL</h1>   
 <h3 align="center">Embedded/Robotics/Software Testing Engineer</h3>
 
-<!--<h3 align="center">
+<h3 align="center">
 <img alt="thumbnail" src="https://user-images.githubusercontent.com/81301684/182623628-15a14c4e-7d9e-4c38-b7ab-2baf3409fcf0.gif" width="300"/>
-</h3> -->
+</h3> 
 
 
 # 💫 About Me:
@@ -32,11 +32,6 @@ This isn't just a career choice for me; it's the field that finally matches my d
 **Data, AI & Scripting**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-## 📊 GitHub Analytics:
-
-<div align="center">
-  <img alt="Mostafa's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=feel&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5"/>
-</div>
 
 ## ✍️ Random Dev Quote:
 
